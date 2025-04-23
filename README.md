@@ -1,4 +1,4 @@
-# 🤖 Chatbot "Nat" - Atendimento Financeiro via WhatsApp (Flask + Twilio)
+# Chatbot "Nat" - Atendimento Financeiro via WhatsApp
 
 Este é um projeto de chatbot criado em Python usando Flask, voltado para o **atendimento inicial de clientes na área financeira** via WhatsApp. O bot responde dúvidas comuns, coleta o CNPJ da empresa, disponibiliza opções de pagamento, dados bancários e ajuda com nota fiscal.
 
